@@ -1,0 +1,11 @@
+{
+    "similarity_threshold": 0.45,
+    "max_history": 7,
+    "enable_sentiment": true,
+    "enable_multilingual": false,
+    "fallback_responses": [
+        "I'm not sure about that one.",
+        "Let me find that information for you.",
+        "Could you provide more details?"
+    ]
+}
